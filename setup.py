@@ -25,6 +25,8 @@ setuptools.setup(
             "Programming Language :: Python :: 3",
             "License :: OSI Approved :: Apache Software License",
             "Operating System :: POSIX :: Linux",
-            "Topic :: Multimedia :: Sound/Audio",
+            "Environment :: X11 Applications",
+            "Intended Audience :: End Users/Desktop",
+            "Topic :: Utilities",
         ],
 )
